@@ -1,0 +1,9 @@
+# Ignore files
+*.class
+*.log
+*.jar
+*.war
+*.ear
+*.db
+*.gitignore
+.DS_Store
